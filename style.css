@@ -61,7 +61,7 @@ body {
   opacity: var(--space);
 }
 
-/* Soft Milky Way band, dim enough to sit behind the starfield. */
+/* Soft Milky Way band, kept subtle behind the starfield. */
 .milkyway {
   inset: -20%;
   filter: blur(2px);
