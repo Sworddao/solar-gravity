@@ -629,7 +629,7 @@ const STATUS_TEXT = {
   },
   [STATE.RESTORING]: {
     title: "SOLAR RESTORATION",
-    lines: ["Re-establishing illumination...", "Re-establishing orbital model..."],
+    lines: ["Restoring illumination...", "Restoring orbital paths..."],
   },
 };
 
