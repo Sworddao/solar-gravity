@@ -76,7 +76,7 @@ body {
   background: radial-gradient(120% 120% at 50% 45%, transparent 55%, rgba(0, 0, 0, 0.28) 100%);
 }
 
-/* ---------- Clouds (fade out in deep space) ---------- */
+/* ---------- Clouds (fade away in deep space) ---------- */
 
 .cloud {
   position: absolute;

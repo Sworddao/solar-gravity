@@ -613,7 +613,7 @@ const STATUS_TEXT = {
   },
   [STATE.DESTROYING]: {
     title: "SOLAR EVENT",
-    lines: ["Solar destabilization detected", "Corona turbulence rising"],
+    lines: ["Solar instability detected", "Corona turbulence increasing"],
   },
   [STATE.LIGHT_DELAY]: {
     title: "LIGHT TRAVEL DELAY",
